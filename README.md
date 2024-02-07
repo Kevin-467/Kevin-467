@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevin-467
-- 👀 I’m interested in watching tennis,swimming matches
+- 👀 I’m interested in playing basketball,watching tennis,swimming matches
 - 🌱 I’m currently learning Python,C/C++(main),JAVA(maybe)
 - 📫 How to reach me 📧3077384244@qq.com /chanteen@foxmail.com
 <!---
