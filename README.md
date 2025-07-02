@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevin-467
+- 👋 Hi, I’m Kevin Chan(@kevin402108)
 <!---
 Kevin-467/Kevin-467 is a ✨ special ✨ repository because its `README.md` this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
